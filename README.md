@@ -112,11 +112,11 @@ Complete CI/CD Workflow
 
 Project Outcome
 
-  Continuous Download
-  Continuous Build
-  Continuous Deploy
-  Continuous test
-  Continuous Delivery
+  Continuous Download,
+  Continuous Build,
+  Continuous Deploy,
+  Continuous test,
+  Continuous Delivery.
 
 Jenkins automates the entire software delivery lifecycle from code commit to production release.
 
